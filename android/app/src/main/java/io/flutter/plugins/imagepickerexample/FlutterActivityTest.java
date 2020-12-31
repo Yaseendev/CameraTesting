@@ -8,6 +8,6 @@ import io.flutter.embedding.android.FlutterActivity;
 
 //@RunWith(FlutterTestRunner.class)
 public class FlutterActivityTest {
-  @Rule
+  //@Rule
   //public ActivityTestRule<FlutterActivity> rule = new ActivityTestRule<>(FlutterActivity.class);
 }
